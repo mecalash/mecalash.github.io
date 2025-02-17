@@ -10,12 +10,12 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Ashley Mecalo"
-title_separator          : "-"
+title_separator          : "-" 
 name                     : &name "Ashley Mecalo"
 description              : &description "I am a second year computer science student focusing on web development."
 url                      : https://mecalash.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mecalash/mecalash.github.io.git
+repository               : "mecalash/mecalash.github.io.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
