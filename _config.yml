@@ -22,7 +22,7 @@ repository               : "mecalash/mecalash.github.io.git"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\mecal\Downloads\Headshot.PNG"
+  avatar           : "Headshot.PNG"
   name             : "Ashley Mecalo"
   pronouns         : "she/her"  
   bio              : "Second Year Computer Science student graduating Spring 2027"
