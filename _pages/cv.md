@@ -25,7 +25,7 @@ Work experience
   * Southern Illinois University of Edwardsville
   * Duties included: Assisting students and other customers with issues, memberships, and equipment
   * Supervisor: Margaret Fredericksen
-
+ 
   
 Skills
 ======
