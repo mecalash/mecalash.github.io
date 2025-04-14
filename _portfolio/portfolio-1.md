@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Budgeting Program"
+excerpt: "Sophmore level budgetting website, includes functioning registration, login and tracking functions <br/><img src='/files/LogDollarsEx.png'>"
 collection: portfolio
 ---
 
