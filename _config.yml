@@ -20,10 +20,10 @@ repository               : "mecalash/mecalash.github.io.git"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
-author:
+author:  
   # Biographic information
-  avatar           : "/images/Headshot.PNG"
-  name             : "Ashley Mecalo"
+  avatar           : "Headshot.PNG"
+  name             : "Ashley Mecalo" 
   pronouns         : "she/her"  
   bio              : "Second Year Computer Science student graduating Spring 2027"
   location         : "SIUE"
