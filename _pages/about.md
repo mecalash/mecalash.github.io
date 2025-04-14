@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Ashley Mecalo should be YOUR next employee! 
 I am a 20-year old Computer Science student at the Southern Illinois University of Edwardsville. I have a genuine passion for this practice and fell in love with it when I was in high school. 
 
 ## My passions don't just include Computer Science
